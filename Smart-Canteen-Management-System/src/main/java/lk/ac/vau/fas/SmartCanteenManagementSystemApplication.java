@@ -1,4 +1,4 @@
-package lk.ac.vau.fas.ict;
+package lk.ac.vau.fas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
